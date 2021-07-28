@@ -5,3 +5,4 @@
 •	User can click on tab to export different motor unit firing patterns.
 
 •	Changing different parameters helps the user to understand the parameters influencing motor unit firing patterns.
+
