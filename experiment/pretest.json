@@ -4,7 +4,7 @@
 		"a": "This is a sample answer A",
 		"b": "This is a sample answer B"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "a" 
 }, {
 	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
 	"answers": {
